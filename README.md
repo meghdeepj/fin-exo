@@ -1,5 +1,5 @@
 # fin-exo
-Bachelor Thesis Project IIT Guwahati - Machine Learning control for assitance-as-required rehabilitation
+Bachelor Thesis Project IIT Guwahati - Machine Learning control of robotic finger exoskeleton device for assitance-as-required rehabilitation
 
 Publication: "Design and Development of a Finger Exoskeleton for Motor Rehabilitation using Electromyography Signals", URL: https://ieeexplore.ieee.org/document/8932126
 
